@@ -1,5 +1,5 @@
 /* 
-	hello.js
+	Hello.js
 	Output hello in text area
 	
 	Irfan Girindra | https://github.com/irfangirindra/UTS
