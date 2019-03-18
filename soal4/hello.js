@@ -2,7 +2,7 @@
 	Hello.js
 	Output hello in text area
 	
-	Irfan Girindra | https://github.com/irfangirindra/UTS
+	Muhammad Irfan Girindra | https://github.com/irfangirindra/UTS
 	
 	Include: <script src="hello.js"></script> in
 	         a HTML file
