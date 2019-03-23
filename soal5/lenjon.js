@@ -268,7 +268,7 @@ function loadParameters() {
 	lines += "# Simulation\n";
 	lines += "TSTEP 0.001\n";   // Time step        s
 	lines += "TBEG 0\n";        // Initial time     s
-	lines += "TEND 100\n";      // Final time       s
+	lines += "TEND 2\n";      // Final time       s
 	lines += "TDATA 0.01\n";    // Data period      s
 	lines += "TPROC 1\n";       // Event period     ms
 	
